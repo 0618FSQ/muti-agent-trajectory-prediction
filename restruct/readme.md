@@ -1,0 +1,1 @@
+nohup torchrun --nproc_per_node=3 --master_port=25641 test_scene_model_train_v2.py > fsq0621_v2.log 2>&1 &

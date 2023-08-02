@@ -1,0 +1,3 @@
+m2a a2m 为多头attention  iter4400： avg loss 1.208; ade loss 1.7-2.3  ; fde loss 5
+fusion                  iter4400： avg loss 1.118; ade loss 1.2-1.7  ; fde loss 4
+sublayer 3   8.1
